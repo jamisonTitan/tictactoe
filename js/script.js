@@ -1,4 +1,5 @@
 
+/*
 $("#button1").click( function() {
     performLogic("#button2","#tile2");
 });
@@ -35,3 +36,4 @@ $("#button9").click( function() {
     performLogic("#button9","#tile9");
 });
 
+*/
