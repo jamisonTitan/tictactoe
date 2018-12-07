@@ -1,3 +1,11 @@
+const numOfBtns = 9;
+
+for(let i = 0; i < numOfBtns;i++){
+	$("#button".concat((i + 1).toString())).click( function() {
+		alert('you clicked btn:' + i);
+	});
+}
+
 
 /*
 $("#button1").click( function() {
